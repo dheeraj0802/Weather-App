@@ -1,0 +1,32 @@
+h1{
+  padding: 100px 100px 30px 220px;
+}
+.late{
+  padding: 0 100px 30px 320px;
+}
+input{
+  width: 30%;
+  box-sizing: border-box;
+  color: #2980b9;
+  border: 3px solid rgba(0,0,0,0);
+  border-color: #2980b9 ;
+  font-size: 18px;
+}
+#submit{
+
+  width:20%;
+}
+body{
+  background: linear-gradient(to right, #fff1eb, #ace0f9);
+
+}
+
+footer{
+  margin: auto 350px;
+  color: #073b4c;
+    border-top: 1px solid #073b4c;
+    margin-top: 290px;
+    padding: 10px 100px 0 0  ;
+  display: block;
+
+}
